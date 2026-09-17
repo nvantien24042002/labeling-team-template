@@ -28,6 +28,9 @@ Phạm Thị D vừa review vừa gán, nên job 105 do Lead review.
 | 5 | Job 105 — 250 ảnh, cùng nhãn | @thanh-vien-d | @thanh-vien-a | 🟡 40% |  |
 | 6 | Đọc lại guideline §3, gom các ca chưa rõ | @thanh-vien-a | — | ✅ 100% | Ra P-001, P-002 |
 | 7 | Rà lại job 101 theo QĐ-001 | @thanh-vien-b | @thanh-vien-d | ✅ 100% | Sửa 37 ảnh người ngồi sau |
+| 8 | Job 1728 - 25 ảnh | @thanh-vien-e | @thanh-vien-d | 1/25 |
+| 8 | Job 1512 - 25 ảnh | @thanh-vien-e | @thanh-vien-d | 2/25 |
+
 
 Mức hoàn thành: ✅ xong **và đã qua review** · 🟡 đang làm (ghi %) · ⛔ bị chặn (ghi lý do) · ⬜ chưa bắt đầu
 
